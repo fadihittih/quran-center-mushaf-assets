@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "1.0.3",
-  "apk_url": "https://github.com/fadihittih/quran-center-mushaf-assets/releases/download/app-v1.0.3/quran-center-1.0.3.apk",
+  "version_code": 5,
+  "version_name": "1.0.4",
+  "apk_url": "https://github.com/fadihittih/quran-center-mushaf-assets/releases/download/app-v1.0.4/quran-center-1.0.4.apk",
   "min_supported_code": 0,
-  "notes": "إصلاح تقييم التسميع متعدد الصفحات، سجل الدوام، «تلاوة من المصحف»، وتكرار واجب السماع."
+  "notes": "آخر تسميع والمقترح القادم أمام كل طالب، تسميع بنقرة واحدة، تعديل بيانات الطالب، إلغاء تسميع بطلب، تحرير بنود الخطة، وتقارير PDF/CSV."
 }
