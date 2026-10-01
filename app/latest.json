@@ -1,7 +1,7 @@
 {
-  "version_code": 5,
-  "version_name": "1.0.4",
-  "apk_url": "https://github.com/fadihittih/quran-center-mushaf-assets/releases/download/app-v1.0.4/quran-center-1.0.4.apk",
+  "version_code": 6,
+  "version_name": "1.0.5",
+  "apk_url": "https://github.com/fadihittih/quran-center-mushaf-assets/releases/download/app-v1.0.5/quran-center-1.0.5.apk",
   "min_supported_code": 0,
-  "notes": "آخر تسميع والمقترح القادم أمام كل طالب، تسميع بنقرة واحدة، تعديل بيانات الطالب، إلغاء تسميع بطلب، تحرير بنود الخطة، وتقارير PDF/CSV."
+  "notes": "إصلاح زر «تسميع» المباشر للحفظ الجديد: صار يختار نوع الجلسة الصحيح."
 }
