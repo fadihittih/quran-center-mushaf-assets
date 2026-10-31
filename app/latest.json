@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
-  "version_name": "1.0.6",
-  "apk_url": "https://github.com/fadihittih/quran-center-mushaf-assets/releases/download/app-v1.0.6/quran-center-1.0.6.apk",
+  "version_code": 8,
+  "version_name": "1.0.7",
+  "apk_url": "https://github.com/fadihittih/quran-center-mushaf-assets/releases/download/app-v1.0.7/quran-center-1.0.7.apk",
   "min_supported_code": 0,
-  "notes": "زرّ «تحديث» يبقى ظاهراً أعلى الشاشة حتى تحدّث التطبيق، وكشف الحضور الشهري يبدأ بأحدث الأيام والأسماء ثابتة."
+  "notes": "تعديل التسميع وإلغاؤه مباشرة، الحضور وسط التسميع، «أخطائي» على المصحف، رمز ربط وليّ الأمر، وإدارة الطلاب والحلقات كاملة."
 }
